@@ -14,6 +14,7 @@ import java.util.Random;
 
 public class ChildGameViewActivity extends Activity
 {
+    
     // spaceInvadersView será la visualización del juego
     // También tendrá la lógica del juego
     // y responderá a los toques a la pantalla
