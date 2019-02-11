@@ -4,7 +4,5 @@ before_install:
   - chmod +x ./gradlew
  
  
-jdk: 
-  - oraclejdk11
-  - oraclejdk8
+
   
