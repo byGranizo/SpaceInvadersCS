@@ -2,20 +2,15 @@ language: android
 
 
 android: 
-  components: 
-  - tools
-  - platform-tools
+  components:
   - build-tools-28.0.3
   - android-26
-  - extra-android-support
-  - extra-android-m2repository 
-  - extra-google-m2repository
   licenses: 
   - ".+"
 
 before_install:
   - chmod +x ./gradlew
-  - mkdir "$ANDROID_HOME/licenses" || true
+ 
  
 script: 
   - ./gradlew build
