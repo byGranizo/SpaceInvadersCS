@@ -22,7 +22,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.214"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/listRankingView"
         app:layout_constraintVertical_bias="0.0" />
 
     <TextView
@@ -39,8 +38,6 @@
         android:textSize="36sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/textView4"
-        app:layout_constraintTop_toBottomOf="@+id/listRankingView"
         app:layout_constraintVertical_bias="0.0" />
 
     <TextView
@@ -55,7 +52,6 @@
         android:text="YOU"
         android:textColor="@color/colorPrimary"
         android:textSize="36sp"
-        app:layout_constraintBottom_toTopOf="@+id/listRankingView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
