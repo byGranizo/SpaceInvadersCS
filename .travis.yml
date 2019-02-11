@@ -17,5 +17,6 @@ before_install:
   - chmod +x ./gradlew
   - mkdir "$ANDROID_HOME/licenses" || true
  
-
+script: 
+  - ./gradlew build
   
