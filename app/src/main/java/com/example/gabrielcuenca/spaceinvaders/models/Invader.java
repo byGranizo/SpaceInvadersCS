@@ -23,6 +23,14 @@ public class Invader {
     private float width;
     private float height;
 
+    public void setXleft(float x) { this.xleft = x; }
+
+    public void setYup(float y) { this.yup = y; }
+
+    public void setDireccion(int direccion){ this.direccion = direccion;}
+
+    public float getDireccion() { return direccion; }
+
     //Tiene color inicial?
     private boolean colorIncial=true;
 
