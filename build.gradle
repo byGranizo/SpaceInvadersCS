@@ -31,7 +31,7 @@ task clean(type: Delete) {
 
 gitPublish {
     // where to publish to (repo must exist)
-    repoUri = 'https://github.com/calidad-de-software-grupo-5/SpaceInvadersCS.git'
+    repoUri = 'git@github.com:calidad-de-software-grupo-5/SpaceInvadersCS.git'
     // (or 'https://github.com/ajoberstar/test-repo.git', depending on authentication)
 
     // branch will be created if it doesn't exist
