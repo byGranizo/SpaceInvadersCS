@@ -21,13 +21,12 @@ public class InvaderTest {
 
     @Before
     public void setUp() throws Exception {
-        context = null;
         columna = 1;
         fila = 1;
         pantallaY = 1000;
         pantallaX = 100;
 
-        invader = new Invader(context, columna, fila, pantallaY, pantallaX);
+        invader = new Invader(null, columna, fila, pantallaY, pantallaX);
     }
 
     @Test
@@ -38,7 +37,7 @@ public class InvaderTest {
         float outputYup;
         float expectedDireccion;
         float expectedYup;
-float pantallY = 1000;
+        float pantallY = 1000;
 
         for (int direccion=1; direccion<=2; direccion++){
             invader.setDireccion(direccion);

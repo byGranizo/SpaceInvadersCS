@@ -63,8 +63,10 @@ public class Invader {
 
         xleft = fila * (width + margen);
 
-        bitmap = BitmapFactory.decodeResource(context.getResources(), R.drawable.space_invader);
 
+        if (context != null) {
+            bitmap = BitmapFactory.decodeResource(context.getResources(), R.drawable.space_invader);
+        }
         velocidad = 100;
     }
 
