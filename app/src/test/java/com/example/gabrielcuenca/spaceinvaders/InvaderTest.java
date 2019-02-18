@@ -37,7 +37,6 @@ public class InvaderTest {
         float outputYup;
         float expectedDireccion;
         float expectedYup;
-        float pantallY = 1000;
 
         for (int direccion=1; direccion<=2; direccion++){
             invader.setDireccion(direccion);
@@ -52,11 +51,11 @@ public class InvaderTest {
         }
 
 
-//        expectedYup = pantallaY/15 + yup; // pantallaY = 1000 yup =1
-//        invader.setYup(yup);
-//        invader.automaticMove();
-//        outputYup = invader.getY();
-//        assertEquals(expectedYup, outputYup, delta);
+        expectedYup = pantallaY/15 + yup;
+        invader.setYup(yup);
+        invader.automaticMove();
+        outputYup = invader.getY();
+        assertEquals(expectedYup, outputYup, delta);
 
 
     }
