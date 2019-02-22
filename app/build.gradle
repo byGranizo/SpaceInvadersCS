@@ -30,3 +30,37 @@ dependencies {
     implementation 'com.android.support:gridlayout-v7:26.1.0'
     implementation 'com.android.support:support-annotations:28.0.0'
 }
+
+task commitPush(type:Exec) {
+    commandLine 'cmd', 'git', '--global', 'user.email', 'gradle@gradle.org'
+    commandLine 'cmd', 'git', '--global', 'user.name', 'gradle'
+    commandLine 'cmd', 'git', 'commit', '-m', 'AutoCommit made by gradle'
+    commandLine 'cmd', 'git', 'push'
+}
+
+task updateBranch(group: "Git", description: "Update current branch from repo") {
+    exec {
+        println("Updating branch from repo!")
+        commandLine("cmd", "git", "pull")
+    }
+}
+task commitFiles(group: "Git", description: "Creates commit with all changes") {
+    exec {
+        commandLine("cmd", "git", "commit", "-a", "-m", "AutoCommit made by gradle")
+        println("Commit created!")
+    }
+}
+task pushToCurrentBranch(group: "Git", description: "Pushes to same branch on origin, or creates it") {
+    exec {
+        commandLine("cmd", "git", "push", "--progress")
+        println("Push made!")
+    }
+}
+task updateBranch_Compile_Push(
+        group: "Git",
+        description: "Pushes to same branch on origin, or creates it",
+        dependsOn: ['updateBranch', 'build', 'commitFiles', 'pushToCurrentBranch']) {
+    build.mustRunAfter updateBranch
+    commitFiles.mustRunAfter build
+    pushToCurrentBranch.mustRunAfter commitFiles
+}

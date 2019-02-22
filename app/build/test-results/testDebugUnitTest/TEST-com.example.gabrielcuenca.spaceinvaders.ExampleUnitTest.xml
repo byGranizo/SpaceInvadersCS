@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.gabrielcuenca.spaceinvaders.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-18T13:07:17" hostname="DESKTOP-RBTDD76" time="0.001">
+<testsuite name="com.example.gabrielcuenca.spaceinvaders.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-22T17:31:18" hostname="DESKTOP-3K5UV35" time="0.0">
   <properties/>
-  <testcase name="addition_isCorrect" classname="com.example.gabrielcuenca.spaceinvaders.ExampleUnitTest" time="0.001"/>
+  <testcase name="addition_isCorrect" classname="com.example.gabrielcuenca.spaceinvaders.ExampleUnitTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

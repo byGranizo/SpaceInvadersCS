@@ -1,7 +1,7 @@
-#Mon Feb 18 19:23:21 CET 2019
-base.0=C\:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+#Fri Feb 22 18:25:38 CET 2019
+base.0=D\:\\Dev\\Android\\SpaceInvadersCS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+base.1=D\:\\Dev\\Android\\SpaceInvadersCS\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
