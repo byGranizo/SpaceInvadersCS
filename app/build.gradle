@@ -34,7 +34,7 @@ dependencies {
 task commitPush(type:Exec) {
     commandLine 'cmd', 'git', '--global', 'user.email', 'gradle@gradle.org'
     commandLine 'cmd', 'git', '--global', 'user.name', 'gradle'
-    commandLine 'cmd', 'git', 'commit', '-m', 'AutoCommit made by gradle'
+    commandLine 'cmd', 'git', 'commit', '-a', '-m', 'AutoCommit made by gradle'
     commandLine 'cmd', 'git', 'push'
 }
 
