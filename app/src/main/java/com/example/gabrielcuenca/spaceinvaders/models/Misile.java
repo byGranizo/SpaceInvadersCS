@@ -39,6 +39,10 @@ public class Misile {
         return rectf;
     }
 
+    public void setDireccion(int direccion) {
+        this.direccion = direccion;
+    }
+
     public void desactivar(){
         this.activate = false;
     }
@@ -66,6 +70,8 @@ public class Misile {
     public void setY(float y) {
         this.y = y;
     }
+
+    public int getDireccion() { return direccion; }
 
     public void cambiarADireccionOpuesta(){
         if (direccion == DOWN){ //Dirección DOWN (=0)

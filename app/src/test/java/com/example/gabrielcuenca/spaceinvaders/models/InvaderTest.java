@@ -1,4 +1,4 @@
-package com.example.gabrielcuenca.spaceinvaders;
+package com.example.gabrielcuenca.spaceinvaders.models;
 
 import android.content.Context;
 import com.example.gabrielcuenca.spaceinvaders.models.Invader;
