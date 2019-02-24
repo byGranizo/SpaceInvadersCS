@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-//Clase para testear el metodo automaticMove del invader
+//Clase para testear el metodo cambiarADireccionOpuesta del misile
 public class MisileTest {
     Misile misile;
 
