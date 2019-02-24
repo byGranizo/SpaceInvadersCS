@@ -27,7 +27,7 @@ public class Ship {
     private float y;
 
     // Esto va a mantener la rapidez de los pixeles por segundo a la que la nave espacial se moverá
-    private float shipSpeed;
+    float shipSpeed;
 
     // En qué direcciones se puede mover la nave espacial
     public final int STOPPED = 0;
@@ -57,15 +57,17 @@ public class Ship {
         y = screenY - 20;
 
         // Inicializa el bitmap
-        bitmap = BitmapFactory.decodeResource(
-                context.getResources(),
-                R.drawable.player_ship);
+        if (context != null){
+            bitmap = BitmapFactory.decodeResource(
+                    context.getResources(),
+                    R.drawable.player_ship);
 
-        // ajusta el bitmap a un tamaño proporcionado a la resolución de la pantalla
-        bitmap = Bitmap.createScaledBitmap(bitmap,
-                (int) (length),
-                (int) (height),
-                false);
+            // ajusta el bitmap a un tamaño proporcionado a la resolución de la pantalla
+            bitmap = Bitmap.createScaledBitmap(bitmap,
+                    (int) (length),
+                    (int) (height),
+                    false);
+        }
 
         // Qué tan rápido va la nave espacial en pixeles por segundo
         shipSpeed = 300;
@@ -96,6 +98,13 @@ public class Ship {
     public float getLength(){
         return length;
     }
+
+    public float getSpeed() { return shipSpeed;}
+
+    public void setSpeed(float shipSpeed) {
+        this.shipSpeed = shipSpeed;
+    }
+
 
     // Este método será usado para cambiar/establecer si la nave
     // espacial va a la izquierda, la derecha o no se mueve
@@ -169,6 +178,15 @@ public class Ship {
                 (int) (length),
                 (int) (height),
                 false);
+    }
+
+    //Este metodo esta desarrollado mediante TDD, por lo que se ha desarrollado el test, y a continuacion la funcionalidad
+    public void cambiarVelocidad(){
+        if (shipSpeed<=500){
+            shipSpeed += 50;
+        }else{
+            shipSpeed -= 400;
+        }
     }
 
 
