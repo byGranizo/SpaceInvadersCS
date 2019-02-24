@@ -19,7 +19,6 @@ public class ChildGameViewActivity extends Activity
     // También tendrá la lógica del juego
     // y responderá a los toques a la pantalla
     View spaceInvadersView;
-
     private MediaPlayer musica = new MediaPlayer();
 
 
