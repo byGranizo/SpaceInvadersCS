@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Dev\\Android\\SpaceInvadersCS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\bygra\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\03a016d8c91458461dce9f7a929936c1\\res\\values-v24\\values-v24.xml",

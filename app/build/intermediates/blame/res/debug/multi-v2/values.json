@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Dev\\Android\\SpaceInvadersCS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\bygra\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.1.3.aar\\0b7247169220e48191b8c7f644d63d45\\res\\values\\values.xml",
@@ -20,25 +20,6 @@
                         "endLines": "19,27,28,29,30,31,36,39,40,41,44,45,48,51,52,53,54,55,58,61,62,63,64,69,72,75,76,77,82,83,84,87,90,91,94,97,100,103,104,107,110,111,116,117,122,125,128,129,130,131,132,133,134,135,136,137,146,2168,2169,2170,2303",
                         "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,2575,131,3263,107",
                         "endOffsets": "3777,4068,4116,4168,4229,4275,4457,4612,4672,4742,4875,4943,5072,5198,5260,5325,5393,5460,5583,5708,5775,5840,5905,6086,6207,6328,6394,6461,6671,6740,6806,6931,7057,7124,7250,7377,7502,7629,7694,7820,7943,8008,8216,8283,8463,8583,8703,8768,8830,8892,8954,9013,9073,9134,9195,9254,9629,154262,154394,157658,164694"
-                    }
-                },
-                {
-                    "source": "D:\\Dev\\Android\\SpaceInvadersCS\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "376"
-                    },
-                    "to": {
-                        "startLines": "486",
-                        "startColumns": "4",
-                        "startOffsets": "32480",
-                        "endLines": "491",
-                        "endColumns": "12",
-                        "endOffsets": "32794"
                     }
                 },
                 {
@@ -61,20 +42,60 @@
                     }
                 },
                 {
-                    "source": "D:\\Dev\\Android\\SpaceInvadersCS\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "1,11,8,10,6,2,4,3,5,7,9",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "17,512,393,469,295,70,177,132,232,340,432",
-                        "endColumns": "51,47,37,41,43,60,53,43,61,51,35",
-                        "endOffsets": "64,555,426,506,334,126,226,171,289,387,463"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "376"
                     },
                     "to": {
-                        "startLines": "456,460,461,467,468,471,472,473,474,475,476",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "29926,30331,30379,31232,31274,31442,31503,31557,31601,31663,31715",
-                        "endColumns": "51,47,37,41,43,60,53,43,61,51,35",
-                        "endOffsets": "29973,30374,30412,31269,31313,31498,31552,31596,31658,31710,31746"
+                        "startLines": "486",
+                        "startColumns": "4",
+                        "startOffsets": "32480",
+                        "endLines": "491",
+                        "endColumns": "12",
+                        "endOffsets": "32794"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\src\\main\\res\\values\\font_certs.xml",
+                    "from": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,263,1993",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "257,1987,3582"
+                    },
+                    "to": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,302,2027",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "297,2022,3612"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "158"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "3617",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "3716"
                     }
                 },
                 {
@@ -95,6 +116,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "47,46,50",
+                        "endOffsets": "200,99,151"
+                    },
+                    "to": {
+                        "startLines": "171,172,173",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "11404,11452,11499",
+                        "endColumns": "47,46,50",
+                        "endOffsets": "11447,11494,11545"
+                    }
+                },
+                {
                     "source": "C:\\Users\\bygra\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-v7-26.1.0.aar\\77530ab355a714b7b56e88ec565619bb\\res\\values\\values.xml",
                     "from": {
                         "startLines": "3,4,5,6,7,8,9,2",
@@ -109,25 +147,6 @@
                         "startOffsets": "23205,23264,23312,23979,24054,24130,26060,169450",
                         "endColumns": "58,47,55,74,75,71,65,629",
                         "endOffsets": "23259,23307,23363,24049,24125,24197,26121,170075"
-                    }
-                },
-                {
-                    "source": "D:\\Dev\\Android\\SpaceInvadersCS\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "158"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "3617",
-                        "endLines": "18",
-                        "endColumns": "12",
-                        "endOffsets": "3716"
                     }
                 },
                 {
@@ -167,39 +186,20 @@
                     }
                 },
                 {
-                    "source": "D:\\Dev\\Android\\SpaceInvadersCS\\app\\src\\main\\res\\values\\font_certs.xml",
+                    "source": "C:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "2,6,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "57,263,1993",
-                        "endLines": "5,10,15",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "257,1987,3582"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
                     },
                     "to": {
-                        "startLines": "2,6,11",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "100,302,2027",
-                        "endLines": "5,10,15",
-                        "endColumns": "12,19,19",
-                        "endOffsets": "297,2022,3612"
-                    }
-                },
-                {
-                    "source": "D:\\Dev\\Android\\SpaceInvadersCS\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "47,46,50",
-                        "endOffsets": "200,99,151"
-                    },
-                    "to": {
-                        "startLines": "171,172,173",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "11404,11452,11499",
-                        "endColumns": "47,46,50",
-                        "endOffsets": "11447,11494,11545"
+                        "startLines": "301,302",
+                        "startColumns": "4,4",
+                        "startOffsets": "20152,20210",
+                        "endColumns": "57,55",
+                        "endOffsets": "20205,20261"
                     }
                 },
                 {
@@ -241,20 +241,20 @@
                     }
                 },
                 {
-                    "source": "D:\\Dev\\Android\\SpaceInvadersCS\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "90,149",
-                        "endColumns": "57,55",
-                        "endOffsets": "143,200"
+                        "startLines": "1,11,8,10,6,2,4,3,5,7,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,512,393,469,295,70,177,132,232,340,432",
+                        "endColumns": "51,47,37,41,43,60,53,43,61,51,35",
+                        "endOffsets": "64,555,426,506,334,126,226,171,289,387,463"
                     },
                     "to": {
-                        "startLines": "301,302",
-                        "startColumns": "4,4",
-                        "startOffsets": "20152,20210",
-                        "endColumns": "57,55",
-                        "endOffsets": "20205,20261"
+                        "startLines": "456,460,461,467,468,471,472,473,474,475,476",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "29926,30331,30379,31232,31274,31442,31503,31557,31601,31663,31715",
+                        "endColumns": "51,47,37,41,43,60,53,43,61,51,35",
+                        "endOffsets": "29973,30374,30412,31269,31313,31498,31552,31596,31658,31710,31746"
                     }
                 }
             ]
