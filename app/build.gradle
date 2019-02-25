@@ -30,7 +30,7 @@ dependencies {
     implementation 'com.android.support:gridlayout-v7:26.1.0'
     implementation 'com.android.support:support-annotations:28.0.0'
 }
-
+/*
 task commitPush(type:Exec) {
     commandLine 'cmd', 'git', '--global', 'user.email', 'gradle@gradle.org'
     commandLine 'cmd', 'git', '--global', 'user.name', 'gradle'
@@ -63,4 +63,4 @@ task updateBranch_Compile_Push(
     build.mustRunAfter updateBranch
     commitFiles.mustRunAfter build
     pushToCurrentBranch.mustRunAfter commitFiles
-}
+}*/
