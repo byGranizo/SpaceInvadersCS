@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="3.3.1"
-    timestamp="1551092736669"
+    timestamp="1551099420542"
     token="-1645613187402823613"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -18,19 +18,22 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2953" />
+        duration="112" />
     <task
         name="verifier"
-        duration="610" />
+        duration="116" />
 
     <artifact
-        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
+    <artifact
+        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -39,13 +42,13 @@
         location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -54,27 +57,27 @@
         location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
-        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1551092736669"
+        timestamp="1551099420542"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -83,13 +86,13 @@
             location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -98,13 +101,10 @@
             location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            location="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
     </build>
 

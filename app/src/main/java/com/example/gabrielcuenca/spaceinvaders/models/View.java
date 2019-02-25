@@ -246,6 +246,7 @@ public class View extends SurfaceView implements Runnable {
         }
 
         /** **** UPDATE DEL MOVIMIENTO DEL JUGADOR ****** **/
+        playerShip.cambiarVelocidad();
         playerShip.update(fps);
 
         /** ***** COLISIONES INVADER EXTRA/BARRERA CON EL JUGADOR ******* **/
