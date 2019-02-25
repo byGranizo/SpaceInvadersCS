@@ -37,30 +37,3 @@ task commitPush(type:Exec) {
     commandLine 'cmd', 'git', 'commit', '-a', '-m', 'AutoCommit made by gradle'
     commandLine 'cmd', 'git', 'push'
 }
-/*
-task updateBranch(group: "Git", description: "Update current branch from repo") {
-    exec {
-        println("Updating branch from repo!")
-        commandLine("cmd", "git", "pull")
-    }
-}
-task commitFiles(group: "Git", description: "Creates commit with all changes") {
-    exec {
-        commandLine("cmd", "git", "commit", "-a", "-m", "AutoCommit made by gradle")
-        println("Commit created!")
-    }
-}
-task pushToCurrentBranch(group: "Git", description: "Pushes to same branch on origin, or creates it") {
-    exec {
-        commandLine("cmd", "git", "push", "--progress")
-        println("Push made!")
-    }
-}
-task updateBranch_Compile_Push(
-        group: "Git",
-        description: "Pushes to same branch on origin, or creates it",
-        dependsOn: ['updateBranch', 'build', 'commitFiles', 'pushToCurrentBranch']) {
-    build.mustRunAfter updateBranch
-    commitFiles.mustRunAfter build
-    pushToCurrentBranch.mustRunAfter commitFiles
-}*/
