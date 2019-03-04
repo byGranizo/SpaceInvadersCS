@@ -12,7 +12,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="181"
             column="9"/>
     </issue>
@@ -28,7 +28,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="197"
             column="9"/>
     </issue>
@@ -44,7 +44,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="213"
             column="9"/>
     </issue>
@@ -60,7 +60,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="229"
             column="9"/>
     </issue>
@@ -76,7 +76,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="245"
             column="9"/>
     </issue>
@@ -92,7 +92,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="261"
             column="9"/>
     </issue>
@@ -108,7 +108,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="277"
             column="9"/>
     </issue>
@@ -124,7 +124,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="293"
             column="9"/>
     </issue>
@@ -140,7 +140,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="309"
             column="9"/>
     </issue>
@@ -156,7 +156,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="325"
             column="9"/>
     </issue>
@@ -174,7 +174,7 @@
         errorLine1="        targetSdkVersion 26"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\build.gradle"
+            file="D:\Dev\Android\SpaceInvadersCS\app\build.gradle"
             line="8"
             column="9"/>
     </issue>
@@ -190,7 +190,7 @@
         errorLine1="    &lt;uses-permission android:name=&quot;android.permission.WRITE_INTERNAL_STORAGE&quot; />"
         errorLine2="     ~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\AndroidManifest.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\AndroidManifest.xml"
             line="35"
             column="6"/>
     </issue>
@@ -206,7 +206,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="181"
             column="9"/>
     </issue>
@@ -222,7 +222,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="197"
             column="9"/>
     </issue>
@@ -238,7 +238,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="213"
             column="9"/>
     </issue>
@@ -254,7 +254,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="229"
             column="9"/>
     </issue>
@@ -270,7 +270,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="245"
             column="9"/>
     </issue>
@@ -286,7 +286,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="261"
             column="9"/>
     </issue>
@@ -302,7 +302,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="277"
             column="9"/>
     </issue>
@@ -318,7 +318,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="293"
             column="9"/>
     </issue>
@@ -334,7 +334,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="309"
             column="9"/>
     </issue>
@@ -350,7 +350,7 @@
         errorLine1="        android:autoText=&quot;false&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="325"
             column="9"/>
     </issue>
@@ -368,7 +368,7 @@
         errorLine1="    &lt;application"
         errorLine2="     ~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\AndroidManifest.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\AndroidManifest.xml"
             line="5"
             column="6"/>
     </issue>
@@ -384,7 +384,7 @@
         errorLine1="    private static Context context;"
         errorLine2="            ~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\Ranking.java"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\Ranking.java"
             line="21"
             column="13"/>
     </issue>
@@ -400,7 +400,7 @@
         errorLine1="    static Context context;"
         errorLine2="    ~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\WelcomeActivity.java"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\WelcomeActivity.java"
             line="17"
             column="5"/>
     </issue>
@@ -416,7 +416,7 @@
         errorLine1="    android:background=&quot;#000&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_end_game.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_end_game.xml"
             line="7"
             column="5"/>
     </issue>
@@ -432,7 +432,7 @@
         errorLine1="    android:background=&quot;#000&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
             line="7"
             column="5"/>
     </issue>
@@ -448,7 +448,7 @@
         errorLine1="    android:background=&quot;@android:color/background_dark&quot;>"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="7"
             column="5"/>
     </issue>
@@ -464,7 +464,7 @@
         errorLine1="&lt;android.support.constraint.ConstraintLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
         errorLine2="^">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_child_game_view.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_child_game_view.xml"
             line="2"
             column="1"/>
     </issue>
@@ -480,7 +480,7 @@
         errorLine1="&lt;TextView xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
         errorLine2="^">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_filas.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_filas.xml"
             line="3"
             column="1"/>
     </issue>
@@ -496,7 +496,7 @@
         errorLine1="&lt;android.support.constraint.ConstraintLayout xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
         errorLine2="^">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_game_view.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_game_view.xml"
             line="2"
             column="1"/>
     </issue>
@@ -510,7 +510,7 @@
         summary="Unused resources"
         explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true.">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\back.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\back.png"/>
     </issue>
 
     <issue
@@ -524,7 +524,7 @@
         errorLine1="    &lt;dimen name=&quot;activity_horizontal_margin&quot;>16dp&lt;/dimen>"
         errorLine2="           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\values\dimens.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\values\dimens.xml"
             line="3"
             column="12"/>
     </issue>
@@ -540,7 +540,7 @@
         errorLine1="    &lt;dimen name=&quot;activity_vertical_margin&quot;>16dp&lt;/dimen>"
         errorLine2="           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\values\dimens.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\values\dimens.xml"
             line="4"
             column="12"/>
     </issue>
@@ -554,7 +554,7 @@
         summary="Unused resources"
         explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true.">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\explosion.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\explosion.png"/>
     </issue>
 
     <issue
@@ -566,7 +566,7 @@
         summary="Unused resources"
         explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true.">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\raw\gohans_anger.mp3"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\raw\gohans_anger.mp3"/>
     </issue>
 
     <issue
@@ -580,7 +580,7 @@
         errorLine1="&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
         errorLine2="^">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\ic_dashboard_black_24dp.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\ic_dashboard_black_24dp.xml"
             line="1"
             column="1"/>
     </issue>
@@ -596,7 +596,7 @@
         errorLine1="&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
         errorLine2="^">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\ic_home_black_24dp.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\ic_home_black_24dp.xml"
             line="1"
             column="1"/>
     </issue>
@@ -612,7 +612,7 @@
         errorLine1="&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;"
         errorLine2="^">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\ic_notifications_black_24dp.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\ic_notifications_black_24dp.xml"
             line="1"
             column="1"/>
     </issue>
@@ -628,7 +628,7 @@
         errorLine1="&lt;menu xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
         errorLine2="^">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\menu\navigation.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\menu\navigation.xml"
             line="2"
             column="1"/>
     </issue>
@@ -642,7 +642,7 @@
         summary="Unused resources"
         explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true.">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\nebula_aqua_pink_jpg.jpg"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\nebula_aqua_pink_jpg.jpg"/>
     </issue>
 
     <issue
@@ -654,7 +654,7 @@
         summary="Unused resources"
         explanation="Unused resources make applications larger and slow down builds.&#xA;&#xA;The unused resource check can ignore tests. If you want to include resources that are only referenced from tests, consider packaging them in a test source set instead.&#xA;&#xA;You can include test sources in the unused resource check by setting the system property lint.unused-resources.include-tests=true, and to exclude them (usually for performance reasons), use lint.unused-resources.exclude-tests=true.">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\next.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\next.png"/>
     </issue>
 
     <issue
@@ -668,7 +668,7 @@
         errorLine1="    &lt;string name=&quot;title_activity_game&quot;>GameActivity&lt;/string>"
         errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\values\strings.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\values\strings.xml"
             line="3"
             column="13"/>
     </issue>
@@ -684,7 +684,7 @@
         errorLine1="    &lt;string name=&quot;title_home&quot;>Home&lt;/string>"
         errorLine2="            ~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\values\strings.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\values\strings.xml"
             line="4"
             column="13"/>
     </issue>
@@ -700,7 +700,7 @@
         errorLine1="    &lt;string name=&quot;title_dashboard&quot;>Dashboard&lt;/string>"
         errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\values\strings.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\values\strings.xml"
             line="5"
             column="13"/>
     </issue>
@@ -716,7 +716,7 @@
         errorLine1="    &lt;string name=&quot;title_notifications&quot;>Notifications&lt;/string>"
         errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\values\strings.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\values\strings.xml"
             line="6"
             column="13"/>
     </issue>
@@ -732,7 +732,7 @@
         errorLine1="    &lt;string name=&quot;lose&quot;>LOSE&lt;/string>"
         errorLine2="            ~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\values\strings.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\values\strings.xml"
             line="9"
             column="13"/>
     </issue>
@@ -748,7 +748,7 @@
         errorLine1="    &lt;string name=&quot;you&quot;>YOU&lt;/string>"
         errorLine2="            ~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\values\strings.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\values\strings.xml"
             line="10"
             column="13"/>
     </issue>
@@ -764,7 +764,7 @@
         errorLine1="    &lt;string name=&quot;points&quot;>POINTS&lt;/string>"
         errorLine2="            ~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\values\strings.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\values\strings.xml"
             line="11"
             column="13"/>
     </issue>
@@ -778,9 +778,9 @@
         summary="Identical bitmaps across various configurations"
         explanation="If an icon is provided under different configuration parameters such as `drawable-hdpi` or `-v11`, they should typically be different. This detector catches cases where the same icon is provided in different configuration folder which is usually not intentional.">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\ship_cambiogris.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\ship_cambiogris.png"/>
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable-v24\ship_cambiogris.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable-v24\ship_cambiogris.png"/>
     </issue>
 
     <issue
@@ -792,9 +792,9 @@
         summary="Identical bitmaps across various configurations"
         explanation="If an icon is provided under different configuration parameters such as `drawable-hdpi` or `-v11`, they should typically be different. This detector catches cases where the same icon is provided in different configuration folder which is usually not intentional.">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\ship_cambioverde.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\ship_cambioverde.png"/>
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable-v24\ship_cambioverde.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable-v24\ship_cambioverde.png"/>
     </issue>
 
     <issue
@@ -806,9 +806,9 @@
         summary="Identical bitmaps across various configurations"
         explanation="If an icon is provided under different configuration parameters such as `drawable-hdpi` or `-v11`, they should typically be different. This detector catches cases where the same icon is provided in different configuration folder which is usually not intentional.">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\space_invader.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\space_invader.png"/>
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable-v24\space_invader.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable-v24\space_invader.png"/>
     </issue>
 
     <issue
@@ -820,9 +820,9 @@
         summary="Identical bitmaps across various configurations"
         explanation="If an icon is provided under different configuration parameters such as `drawable-hdpi` or `-v11`, they should typically be different. This detector catches cases where the same icon is provided in different configuration folder which is usually not intentional.">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\space_invaderazul.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\space_invaderazul.png"/>
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable-v24\space_invaderazul.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable-v24\space_invaderazul.png"/>
     </issue>
 
     <issue
@@ -834,9 +834,9 @@
         summary="Identical bitmaps across various configurations"
         explanation="If an icon is provided under different configuration parameters such as `drawable-hdpi` or `-v11`, they should typically be different. This detector catches cases where the same icon is provided in different configuration folder which is usually not intentional.">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\space_invadernaranja.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\space_invadernaranja.png"/>
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable-v24\space_invadernaranja.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable-v24\space_invadernaranja.png"/>
     </issue>
 
     <issue
@@ -850,7 +850,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\back.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\back.png"/>
     </issue>
 
     <issue
@@ -864,7 +864,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\explosion.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\explosion.png"/>
     </issue>
 
     <issue
@@ -878,7 +878,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\invader_cambio.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\invader_cambio.png"/>
     </issue>
 
     <issue
@@ -892,7 +892,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\nebula_aqua_pink_jpg.jpg"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\nebula_aqua_pink_jpg.jpg"/>
     </issue>
 
     <issue
@@ -906,7 +906,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\next.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\next.png"/>
     </issue>
 
     <issue
@@ -920,7 +920,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\player_ship.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\player_ship.png"/>
     </issue>
 
     <issue
@@ -934,7 +934,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\ship_cambio.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\ship_cambio.png"/>
     </issue>
 
     <issue
@@ -948,7 +948,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\ship_cambiogris.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\ship_cambiogris.png"/>
     </issue>
 
     <issue
@@ -962,7 +962,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\ship_cambioverde.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\ship_cambioverde.png"/>
     </issue>
 
     <issue
@@ -976,7 +976,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\shoot_icon.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\shoot_icon.png"/>
     </issue>
 
     <issue
@@ -990,7 +990,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\space_invader.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\space_invader.png"/>
     </issue>
 
     <issue
@@ -1004,7 +1004,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\space_invaderazul.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\space_invaderazul.png"/>
     </issue>
 
     <issue
@@ -1018,7 +1018,7 @@
         url="http://developer.android.com/guide/practices/screens_support.html"
         urls="http://developer.android.com/guide/practices/screens_support.html">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\drawable\space_invadernaranja.png"/>
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\drawable\space_invadernaranja.png"/>
     </issue>
 
     <issue
@@ -1034,7 +1034,7 @@
         errorLine1="    &lt;application"
         errorLine2="    ^">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\AndroidManifest.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\AndroidManifest.xml"
             line="5"
             column="5"/>
     </issue>
@@ -1050,7 +1050,7 @@
         errorLine1="public class View extends SurfaceView implements Runnable {"
         errorLine2="             ~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java"
             line="23"
             column="14"/>
     </issue>
@@ -1066,8 +1066,8 @@
         errorLine1="    public boolean onTouchEvent(MotionEvent motionEvent) {"
         errorLine2="                   ~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java"
-            line="445"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java"
+            line="446"
             column="20"/>
     </issue>
 
@@ -1082,7 +1082,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_end_game.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_end_game.xml"
             line="138"
             column="6"/>
     </issue>
@@ -1098,7 +1098,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="334"
             column="6"/>
     </issue>
@@ -1114,7 +1114,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="347"
             column="6"/>
     </issue>
@@ -1130,7 +1130,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="360"
             column="6"/>
     </issue>
@@ -1146,7 +1146,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="373"
             column="6"/>
     </issue>
@@ -1162,7 +1162,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="386"
             column="6"/>
     </issue>
@@ -1178,7 +1178,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="399"
             column="6"/>
     </issue>
@@ -1194,7 +1194,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="412"
             column="6"/>
     </issue>
@@ -1210,7 +1210,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="425"
             column="6"/>
     </issue>
@@ -1226,7 +1226,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="438"
             column="6"/>
     </issue>
@@ -1242,7 +1242,7 @@
         errorLine1="    &lt;ImageView"
         errorLine2="     ~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="451"
             column="6"/>
     </issue>
@@ -1258,7 +1258,7 @@
         errorLine1="        android:clickable=&quot;true&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
             line="40"
             column="9"/>
     </issue>
@@ -1276,8 +1276,8 @@
         errorLine1="            ganar.setText(&quot;WIN&quot;);"
         errorLine2="                          ~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\EndActivity.java"
-            line="45"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\EndActivity.java"
+            line="46"
             column="27"/>
     </issue>
 
@@ -1294,7 +1294,7 @@
         errorLine1="                userScore.setText(Integer.toString((entry.getValue())));"
         errorLine2="                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\RankingActivity.java"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\RankingActivity.java"
             line="40"
             column="35"/>
     </issue>
@@ -1310,7 +1310,7 @@
         errorLine1="        android:text=&quot;POINTS&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_end_game.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_end_game.xml"
             line="36"
             column="9"/>
     </issue>
@@ -1326,7 +1326,7 @@
         errorLine1="        android:text=&quot;YOU&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_end_game.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_end_game.xml"
             line="52"
             column="9"/>
     </issue>
@@ -1342,7 +1342,7 @@
         errorLine1="        android:text=&quot;LOSE &quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_end_game.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_end_game.xml"
             line="68"
             column="9"/>
     </issue>
@@ -1358,7 +1358,7 @@
         errorLine1="    android:text=&quot;TextView&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_filas.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_filas.xml"
             line="15"
             column="5"/>
     </issue>
@@ -1374,7 +1374,7 @@
         errorLine1="        android:text=&quot;Play&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
             line="21"
             column="9"/>
     </issue>
@@ -1390,7 +1390,7 @@
         errorLine1="        android:text=&quot;I&apos;m over 13 years old&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
             line="42"
             column="9"/>
     </issue>
@@ -1406,7 +1406,7 @@
         errorLine1="        android:hint=&quot;Introduce tu nombre:&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
             line="60"
             column="9"/>
     </issue>
@@ -1422,7 +1422,7 @@
         errorLine1="            android:hint=&quot;Introduce tu nombre...&quot;"
         errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
             line="75"
             column="13"/>
     </issue>
@@ -1438,7 +1438,7 @@
         errorLine1="        android:text=&quot;Pro level, are you ready?&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_welcome.xml"
             line="89"
             column="9"/>
     </issue>
@@ -1454,7 +1454,7 @@
         errorLine1="        android:text=&quot;TOP 10&quot;"
         errorLine2="        ~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\ranking_activity.xml"
             line="16"
             column="9"/>
     </issue>
@@ -1470,7 +1470,7 @@
         errorLine1="    android:paddingLeft=&quot;20dp&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_filas.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_filas.xml"
             line="14"
             column="5"/>
     </issue>
@@ -1486,7 +1486,7 @@
         errorLine1="    android:paddingLeft=&quot;20dp&quot;"
         errorLine2="    ~~~~~~~~~~~~~~~~~~~">
         <location
-            file="C:\Users\bygra\Desktop\CS\SpaceInvadersCS\app\src\main\res\layout\activity_filas.xml"
+            file="D:\Dev\Android\SpaceInvadersCS\app\src\main\res\layout\activity_filas.xml"
             line="14"
             column="5"/>
     </issue>

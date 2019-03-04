@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "D:\\Dev\\Android\\SpaceInvadersCS\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\bygra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d695ea247f38480c129671d23e48d8b9\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\bygra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\693f65676f389bc4e0969a1702beba4a\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\bygra\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\1d4a6404437bd7f37745bb7ca6ef4aa0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\bygra\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\aa86983f2c2b4218eefdf8fc1e67e652\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

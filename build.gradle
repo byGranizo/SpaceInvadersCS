@@ -9,14 +9,18 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:3.3.1'
         classpath 'org.ajoberstar:gradle-git-publish:2.0.0'
+        classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.7"
         
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
     }
 }
-
+plugins {
+    id "org.sonarqube" version "2.7"
+}
 apply plugin: 'org.ajoberstar.git-publish'
+
 
 allprojects {
     repositories {
@@ -24,3 +28,13 @@ allprojects {
         jcenter()
     }
 }
+
+sonarqube {
+    properties {
+        property "sonar.projectKey", "calidad-de-software-grupo-5_SpaceInvadersCS"
+        property "sonar.organization", "calidad-de-software-grupo-5"
+        property "sonar.host.url", "https://sonarcloud.io"
+        property "sonar.login", "6326679947394c5a7eb04f916feeb7ee09c3d612"
+    }
+}
+

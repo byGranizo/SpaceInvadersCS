@@ -1,0 +1,352 @@
+
+]com.example.gabrielcuenca.spaceinvaders.models.View#onTouchEvent(Landroid/view/MotionEvent;)Z
+__unknown_file ("paramAnnotations*˙
+24u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaƒ ƒ(ì
+ê
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaƒ ƒ((	
+%3int"__id*
+""‹Ÿ
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java« «(&
+%4float" android.view.MotionEvent#getY()F*)
+'
+motionEventandroid.view.MotionEvent2getY()*
+15
+23*π
+13u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaŸ Ÿ("Ö
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaŸ Ÿ(":
+%223com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShipÖ
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaŸ1 Ÿ(;:
+%233com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShip¶£
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaŸ Ÿ(A
+%24void"Ecom.example.gabrielcuenca.spaceinvaders.models.Ship#setShipMoving(I)V*<
+:
+%223com.example.gabrielcuenca.spaceinvaders.models.Ship*
+""2setShipMoving(I)*
+1*Â
+14u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java◊ ◊(#›⁄
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java◊ ◊(*
+%21float" android.view.MotionEvent#getX()F*)
+'
+motionEventandroid.view.MotionEvent2getX()*
+13
+12*‰
+15u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java’ ’(&›⁄
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java’ ’(-
+%20float" android.view.MotionEvent#getY()F*)
+'
+motionEventandroid.view.MotionEvent2getY()*
+14
+1*⁄
+19u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÀ À('ÿ
+’
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÀ À('
+%9$Array"__id*H*F5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+shipMisiles‹
+Ÿ
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÀ À(7<
+%105com.example.gabrielcuenca.spaceinvaders.models.Misile"
+__arrayGet*
+
+%9$Array*
+""Ö
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÀ> À(H:
+%113com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShipãà
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÀ> À(O
+%12float";com.example.gabrielcuenca.spaceinvaders.models.Ship#getX()F*<
+:
+%113com.example.gabrielcuenca.spaceinvaders.models.Ship2getX()Ö
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÀR À(\:
+%133com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShipïí
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÀR À(h
+%14float"@com.example.gabrielcuenca.spaceinvaders.models.Ship#getLength()F*<
+:
+%133com.example.gabrielcuenca.spaceinvaders.models.Ship2getLength()Ö
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÃ  Ã(*:
+%153com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShipãà
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÃ  Ã(1
+%16float";com.example.gabrielcuenca.spaceinvaders.models.Ship#getY()F*<
+:
+%153com.example.gabrielcuenca.spaceinvaders.models.Ship2getY()Ö
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÃ4 Ã(>:
+%173com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShipïí
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÃ4 Ã(J
+%18float"@com.example.gabrielcuenca.spaceinvaders.models.Ship#getHeight()F*<
+:
+%173com.example.gabrielcuenca.spaceinvaders.models.Ship2getHeight()±Æ
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÀ Ã(Z
+%19boolean"Acom.example.gabrielcuenca.spaceinvaders.models.Misile#shoot(FFI)Z*>
+<
+%105com.example.gabrielcuenca.spaceinvaders.models.Misile*
+""*
+""*
+""2
+shoot(FFI)*
+1*ú
+paramAnnotationsu
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaæ æ(8œ
+Ã
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaΩ Ω(
+%2"
+__annotate*
+java.lang.Override*)
+'
+motionEventandroid.view.MotionEventπ
+∂
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaæ, æ(7'
+motionEventandroid.view.MotionEvent"__annotation*
+
+%2*
+2*˚
+1u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java ("
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java (
+""*É
+2u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java¡ ¡(‰·
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java¡ ¡('	
+%0int"%android.view.MotionEvent#getAction()I*)
+'
+motionEventandroid.view.MotionEvent2getAction()ì
+ê
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java¡* ¡(A	
+%1int"__id*
+""*
+
+24
+3
+1*œ
+3u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÍ Í(î
+ë
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÍ Í(&
+
+%39int"__id*
+""Ö
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÏ Ï(:
+%403com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShipÖ
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÏ) Ï(3:
+%413com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShip¶£
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaÏ Ï(<
+%42void"Ecom.example.gabrielcuenca.spaceinvaders.models.Ship#setShipMoving(I)V*<
+:
+%403com.example.gabrielcuenca.spaceinvaders.models.Ship*
+""2setShipMoving(I)*
+1*∏
+5u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java„ „(&Ö
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java„ „(&:
+%363com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShipÖ
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java„5 „(?:
+%373com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShip¶£
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java„ „(E
+%38void"Ecom.example.gabrielcuenca.spaceinvaders.models.Ship#setShipMoving(I)V*<
+:
+%363com.example.gabrielcuenca.spaceinvaders.models.Ship*
+""2setShipMoving(I)*
+1*‚
+6u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java·# ·(.›⁄
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java·# ·(5
+%35float" android.view.MotionEvent#getY()F*)
+'
+motionEventandroid.view.MotionEvent2getY()*
+5
+1*∏
+7u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java‡ ‡(&Ö
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java‡ ‡(&:
+%323com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShipÖ
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java‡5 ‡(?:
+%333com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShip¶£
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java‡ ‡(C
+%34void"Ecom.example.gabrielcuenca.spaceinvaders.models.Ship#setShipMoving(I)V*<
+:
+%323com.example.gabrielcuenca.spaceinvaders.models.Ship*
+""2setShipMoving(I)*
+1*‚
+8u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaﬁ ﬁ('›⁄
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.javaﬁ ﬁ(.
+%31float" android.view.MotionEvent#getY()F*)
+'
+motionEventandroid.view.MotionEvent2getY()*
+6
+7*‚
+9u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java›H ›(S›⁄
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java›H ›(Z
+%30float" android.view.MotionEvent#getX()F*)
+'
+motionEventandroid.view.MotionEvent2getX()*
+8
+1*‰
+20u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java… …(›
+⁄
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java… …(
+%8java.lang.Boolean"__id*B*@5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+adult*
+19
+1*„
+10u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java›! ›((›⁄
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java›0 ›(B
+%29float" android.view.MotionEvent#getX()F*)
+'
+motionEventandroid.view.MotionEvent2getX()*
+9
+1*‰
+21u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java» »(#‹Ÿ
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java» »(*
+%7float" android.view.MotionEvent#getY()F*)
+'
+motionEventandroid.view.MotionEvent2getY()*
+15
+20*π
+11u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java‹ ‹("Ö
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java‹ ‹(":
+%263com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShipÖ
+Ç
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java‹1 ‹(;:
+%273com.example.gabrielcuenca.spaceinvaders.models.Ship"__id*G*E5
+3com.example.gabrielcuenca.spaceinvaders.models.View"
+
+playerShip¶£
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java‹ ‹(B
+%28void"Ecom.example.gabrielcuenca.spaceinvaders.models.Ship#setShipMoving(I)V*<
+:
+%263com.example.gabrielcuenca.spaceinvaders.models.Ship*
+""2setShipMoving(I)*
+1*‰
+22u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java«` «(k‹Ÿ
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java«` «(r
+%6float" android.view.MotionEvent#getX()F*)
+'
+motionEventandroid.view.MotionEvent2getX()*
+15
+21*Â
+12u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java⁄! ⁄((›⁄
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java⁄5 ⁄(G
+%25float" android.view.MotionEvent#getX()F*)
+'
+motionEventandroid.view.MotionEvent2getX()*
+10
+11*‰
+23u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java«: «(E‹Ÿ
+u
+iD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\models\View.java«: «(L
+%5float" android.view.MotionEvent#getX()F*)
+'
+motionEventandroid.view.MotionEvent2getX()*
+21
+22:'
+motionEventandroid.view.MotionEventB75
+3com.example.gabrielcuenca.spaceinvaders.models.View

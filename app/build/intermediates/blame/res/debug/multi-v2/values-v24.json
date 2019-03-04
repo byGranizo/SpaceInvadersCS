@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "D:\\Dev\\Android\\SpaceInvadersCS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\bygra\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\03a016d8c91458461dce9f7a929936c1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\bygra\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7395cf945c98eebb7675048f3e9f0ec1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\bygra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\d695ea247f38480c129671d23e48d8b9\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\bygra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\693f65676f389bc4e0969a1702beba4a\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
