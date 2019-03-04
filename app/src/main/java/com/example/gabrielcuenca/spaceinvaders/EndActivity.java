@@ -32,6 +32,7 @@ public class EndActivity extends AppCompatActivity {
         this.score = intent.getStringExtra("score");
         this.win = intent.getStringExtra("win");
         this.userName = intent.getStringExtra("user");
+        
 
         this.pro = intent.getExtras().getBoolean("pro");
         this.adult = intent.getExtras().getBoolean("adult");

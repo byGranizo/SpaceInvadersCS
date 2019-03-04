@@ -1,0 +1,36 @@
+
+kcom.example.gabrielcuenca.spaceinvaders.utils.CameraManager#checkCameraHardware(Landroid/content/Context;)Z
+__unknown_file ("3*ˆ
+2{
+qD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\utils\CameraManager.java ("…
+{
+qD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\utils\CameraManager.java (
+""*®
+3{
+qD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\utils\CameraManager.java (´±
+{
+qD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\utils\CameraManager.java (''
+%0!android.content.pm.PackageManager"Nandroid.content.Context#getPackageManager()Landroid/content/pm/PackageManager;*$
+"
+contextandroid.content.Context2getPackageManager()¦
+£
+{
+qD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\utils\CameraManager.java9 (V
+%1java.lang.String"__id*
+""ÃÀ
+{
+qD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\utils\CameraManager.java (W
+%2boolean"Gandroid.content.pm.PackageManager#hasSystemFeature(Ljava/lang/String;)Z*)
+'
+%0!android.content.pm.PackageManager*
+
+%1java.lang.String2$hasSystemFeature(Ljava/lang/String;)*
+2
+1*ˆ
+1{
+qD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\utils\CameraManager.java ("…
+{
+qD:\Dev\Android\SpaceInvadersCS\app\src\main\java\com\example\gabrielcuenca\spaceinvaders\utils\CameraManager.java (
+"":"
+contextandroid.content.ContextB?"=
+;com.example.gabrielcuenca.spaceinvaders.utils.CameraManager

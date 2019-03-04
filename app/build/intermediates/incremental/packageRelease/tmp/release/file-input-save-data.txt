@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Mon Feb 25 12:01:56 CET 2019
-0.baseType=DIRECTORY
-0.base=C\:\\Users\\bygra\\Desktop\\CS\\SpaceInvadersCS\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
-0.path=classes.dex
-0.set=DEX
-count=1
