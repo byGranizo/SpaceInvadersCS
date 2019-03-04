@@ -23,7 +23,7 @@ script:
   - echo "Travis branch is $TRAVIS_BRANCH"
   - echo "Travis branch is in pull request $TRAVIS_PULL+REQUEST"
   - ./gradlew build
-  -sonar-scanner
+  - sonar-scanner
   
 branches: 
   only:
