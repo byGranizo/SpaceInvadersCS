@@ -3,5 +3,5 @@ projectKey=calidad-de-software-grupo-5_SpaceInvadersCS
 serverUrl=https://sonarcloud.io
 serverVersion=7.7.0.22487
 dashboardUrl=https://sonarcloud.io/dashboard?id=calidad-de-software-grupo-5_SpaceInvadersCS
-ceTaskId=AWlJhij2WtzwaoOZy-Ml
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWlJhij2WtzwaoOZy-Ml
+ceTaskId=AWlJ3k60uiKBtBFjNNMt
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWlJ3k60uiKBtBFjNNMt
