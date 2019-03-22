@@ -100,6 +100,24 @@ public class Ship {
     }
 
     public float getSpeed() { return shipSpeed;}
+    
+    public float getShipMoving() { return shipMoving;}
+
+    public void setX(float x) {
+        this.x = x;
+    }
+
+    public void setY(float y) {
+        this.y = y;
+    }
+
+    public void setLength(float length) {
+        this.length = length;
+    }
+
+    public void setHeight(float height) {
+        this.height = height;
+    }
 
     public void setSpeed(float shipSpeed) {
         this.shipSpeed = shipSpeed;
@@ -156,6 +174,7 @@ public class Ship {
         x = -300;
     }
 
+    //Al ser un metodo que depende de un numero aleatorio, no tenemos un resultado esperado, y no se puede hacer test
     public void aparecer(int screenX){
         x = (int) (Math.random() * screenX)- this.length;
     }
