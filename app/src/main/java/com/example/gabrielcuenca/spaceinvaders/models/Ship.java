@@ -29,11 +29,11 @@ public class Ship {
     float shipSpeed;
 
     // En qué direcciones se puede mover la nave espacial
-    public final int STOPPED = 0;
-    public final int LEFT = 1;
-    public final int RIGHT = 2;
-    public final int UP = 3;
-    public final int DOWN = 4;
+    static final int STOPPED = 0;
+    static final int LEFT = 1;
+    static final int RIGHT = 2;
+    static final int UP = 3;
+    static final int DOWN = 4;
 
     // Se esta moviendo la nave espacial y en que dirección
     private int shipMoving = STOPPED;
