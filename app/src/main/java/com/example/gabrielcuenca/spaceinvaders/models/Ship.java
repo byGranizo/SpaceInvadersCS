@@ -7,7 +7,6 @@ import android.graphics.RectF;
 
 import com.example.gabrielcuenca.spaceinvaders.R;
 
-import java.util.Random;
 
 public class Ship {
     RectF rect;
