@@ -7,8 +7,6 @@ import android.graphics.RectF;
 
 import com.example.gabrielcuenca.spaceinvaders.R;
 
-import java.util.Random;
-
 
 public class Ship {
     RectF rect;
@@ -166,7 +164,7 @@ public class Ship {
 
     //Al ser un metodo que depende de un numero aleatorio, no tenemos un resultado esperado, y no se puede hacer test
     public void aparecer(int screenX){
-        float aux= (int) (Math.random() * screenX);
+        float aux= (float)(Math.random() * screenX);
         x = (int)(aux)- this.length;
     }
 
