@@ -7,6 +7,8 @@ import android.graphics.RectF;
 
 import com.example.gabrielcuenca.spaceinvaders.R;
 
+import java.util.Random;
+
 
 public class Ship {
     RectF rect;
@@ -47,13 +49,12 @@ public class Ship {
 
         // Inicializa un RectF vacío
         rect = new RectF();
-
-        length = screenX/10;
-        height = screenY/10;
+        length = (float)screenX/10;
+        height = (float)screenY/10;
 
         // Inicia la nave en el centro de la pantalla aproximadamente
-        x = screenX / 2;
-        y = screenY - 20;
+        x = (float)screenX / 2;
+        y = (float)screenY - 20;
 
         // Inicializa el bitmap
         if (context != null){
@@ -135,29 +136,19 @@ public class Ship {
     // que están en x si es necesario
 
     public void update(long fps){
-        if(shipMoving == LEFT){
-            if(x>0){
+        if((shipMoving == LEFT)&&(x>0)){
                 x = x - shipSpeed / fps;
-            }
         }
 
-        if(shipMoving == RIGHT){
-            if(x<length*9){
+        if((shipMoving == RIGHT)&&(x<length*9)){
                 x = x + shipSpeed / fps;
-            }
+
         }
-        if (shipMoving == UP){
-            if (y>0){
+        if ((shipMoving == UP)&& (y>0)){
                 y = y - shipSpeed / fps;
-
-
-            }
         }
         if (shipMoving == DOWN){
-
                 y = y + shipSpeed / fps;
-
-            
         }
 
 
@@ -175,7 +166,8 @@ public class Ship {
 
     //Al ser un metodo que depende de un numero aleatorio, no tenemos un resultado esperado, y no se puede hacer test
     public void aparecer(int screenX){
-        x = (int) (Math.random() * screenX)- this.length;
+        float aux= (int) (Math.random() * screenX);
+        x = (int)(aux)- this.length;
     }
 
 
@@ -209,7 +201,8 @@ public class Ship {
 
 
     public void serImagenAleatoria(Context context){
-        int i= (int) (Math.random()*4);
+        double aux= Math.random()*4;
+        int i= (int) (aux);
 
         switch (i){
             case 0:
@@ -235,6 +228,7 @@ public class Ship {
                         context.getResources(),
                         R.drawable.ship_cambioverde);
                 break;
+            default:
         }
 
         bitmap = Bitmap.createScaledBitmap(bitmap,
