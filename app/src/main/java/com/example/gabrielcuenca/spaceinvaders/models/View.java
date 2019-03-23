@@ -470,14 +470,14 @@ public class View extends SurfaceView implements Runnable {
                     //laterales de la pantalla
                     if (motionEvent.getX() <= (screenX / 3)) {
                         //se mueve a la izq
-                        playerShip.setShipMoving(playerShip.LEFT);
+                        playerShip.setShipMoving(Ship.LEFT);
                     } else if (((screenX / 3) * 2) < motionEvent.getX()) {
                         //se mueve a la dcha
-                        playerShip.setShipMoving(playerShip.RIGHT);
+                        playerShip.setShipMoving(Ship.RIGHT);
                     } else if (((screenX / 3) < motionEvent.getX()) && (motionEvent.getX() <= ((screenX / 3) * 2))) {
                         if (motionEvent.getY() <= (screenY * 3 / 4)) {
                             //se mueve hacia arriba
-                            playerShip.setShipMoving(playerShip.UP);
+                            playerShip.setShipMoving(Ship.UP);
                         } else if (motionEvent.getY() > (screenY * 3 / 4)) {
                             //se mueve hacia abajo
                             playerShip.setShipMoving(playerShip.DOWN);
