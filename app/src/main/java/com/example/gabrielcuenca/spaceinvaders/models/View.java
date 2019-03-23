@@ -489,7 +489,7 @@ public class View extends SurfaceView implements Runnable {
             // El jugador a retirado el dedo de la pantalla
             case MotionEvent.ACTION_UP:
                 //se para
-                playerShip.setShipMoving(playerShip.STOPPED);
+                playerShip.setShipMoving(Ship.STOPPED);
                 break;
         }
 
