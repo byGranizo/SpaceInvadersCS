@@ -20,6 +20,11 @@ plugins {
 }
 apply plugin: 'org.ajoberstar.git-publish'
 
+apply plugin: 'jacoco'
+
+jacoco {
+    toolVersion = "0.7.6.201602180812"
+}
 
 allprojects {
     repositories {
