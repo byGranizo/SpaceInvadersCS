@@ -1,4 +1,6 @@
 apply plugin: 'com.android.application'
+apply plugin: 'org.sonarqube'
+apply plugin: 'jacoco'
 
 android {
     compileSdkVersion 26
@@ -36,4 +38,44 @@ task commitPush(type:Exec) {
     commandLine 'cmd', 'git', '--global', 'user.name', 'gradle'
     commandLine 'cmd', 'git', 'commit', '-a', '-m', 'AutoCommit made by gradle'
     commandLine 'cmd', 'git', 'push'
+}
+
+def androidExclusion = [
+        '**/databinding/**/*.*',
+        '**/android/databinding/*Binding.*',
+        '**/BR.*',
+        '**/R.*',
+        '**/R$*.*',
+        '**/BuildConfig.*',
+        '**/Manifest*.*',
+        '**/*_MembersInjector.*',
+        '**/Dagger*Component.*',
+        '**/Dagger*Component$Builder.*',
+        '**/*Module_*Factory.*',
+        '**/*Fragment*.*',
+        '**/*Activity*.*',
+        '**/*Adapter*.*',
+        '**/*ViewPager*.*',
+        '**/*ViewHolder*.*',
+        '**/*Module*.*'
+]
+
+task codeCoverageReport(type: JacocoReport, dependsOn: 'testStagingDebugUnitTest') {
+    group = "Reporting"
+    description = "Generate Jacoco coverage reports after running tests."
+    reports {
+        xml.enabled = true
+        html.enabled = true
+    }
+    classDirectories = fileTree(
+            dir: '${project.buildDir}/intermediates/classes/${sourcePath}',
+            excludes: androidExclusion
+    )
+    sourceDirectories = files('src/main/java')
+    executionData = files('${project.buildDir}/jacoco/${testTaskName}.exec.exec')
+}
+
+task getCoverage(type: Exec, dependsOn: 'codeCoverageReport') {
+    group = "Reporting"
+    commandLine "open", "$buildDir/reports/jacoco/codeCoverageReport/html/index.html"
 }
