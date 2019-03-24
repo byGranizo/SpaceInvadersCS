@@ -24,6 +24,7 @@ script:
   - echo "Travis branch is in pull request $TRAVIS_PULL+REQUEST"
   - ./gradlew build
   - ./gradlew sonarqube
+  - ./gradlew getCoverage
   
 branches: 
   only:
