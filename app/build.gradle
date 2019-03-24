@@ -1,13 +1,4 @@
 apply plugin: 'com.android.application'
-apply plugin: 'jacoco-android'
-
-buildscript {
-    dependencies {
-        classpath "com.dicedmelon.gradle:jacoco-android:0.1.1"
-    }
-}
-
-
 
 android {
     compileSdkVersion 26
@@ -25,36 +16,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    debug {
-        testCoverageEnabled = true
-    }
-    testOptions {
-        unitTests.all {
-            jacoco {
-                includeNoLocationClasses = true
-            }
-        }
-    }
     buildToolsVersion '28.0.3'
 }
-sonarqube {
-    properties {
-        property "sonar.jacoco.reportPath", "build/jacoco/testDebugUnitTest.exec"
-        property "sonar.java.coveragePlugin", "jacoco"
-    }
-}
-
-jacoco {
-    toolVersion = "0.7.6.201602180812"
-}
-
-jacocoAndroidUnitTestReport {
-    csv.enabled false
-    html.enabled false
-    xml.enabled true
-}
-
-
 
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
