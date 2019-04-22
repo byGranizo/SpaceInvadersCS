@@ -1,0 +1,7 @@
+Feature: Ship Change Color
+  As a player, I want the ship to color randomly.
+
+  Scenario: Random change of color
+    Given a game started
+    When ship is moving
+    Then change color of the ship randomly
