@@ -247,6 +247,7 @@ public class View extends SurfaceView implements Runnable {
 
         /** **** UPDATE DEL MOVIMIENTO DEL JUGADOR ****** **/
         playerShip.update(fps);
+        playerShip.cambiarVelocidad();
 
         /** ***** COLISIONES INVADER EXTRA/BARRERA CON EL JUGADOR ******* **/
         if (invaderExtra.isVisible() && RectF.intersects(playerShip.getRect(), invaderExtra.getRectf())) {
