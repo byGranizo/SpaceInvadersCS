@@ -73,6 +73,26 @@ public class Ship {
         shipSpeed = 300;
     }
 
+    public int getDireccion(){
+
+        int direccion;
+
+        if(shipMoving == 0){
+            return direccion = 0;
+        } else if (shipMoving == 1) {
+            return direccion = 1;
+        } else if (shipMoving == 2) {
+            return direccion = 2;
+        } else if (shipMoving == 3) {
+            return direccion = 3;
+        } else if (shipMoving == 4) {
+            return direccion = 4;
+        } else {
+            return direccion = -1;
+        }
+
+    }
+
     public float getHeight() {
         return height;
     }

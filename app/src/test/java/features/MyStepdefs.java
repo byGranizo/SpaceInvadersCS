@@ -1,8 +1,10 @@
 package features;
 
 import android.content.Context;
+import android.view.MotionEvent;
 
 import com.example.gabrielcuenca.spaceinvaders.models.Ship;
+import com.example.gabrielcuenca.spaceinvaders.models.View;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -55,18 +57,73 @@ public class MyStepdefs {
         double delta = 0.1;
         float output;
         float expected;
-        float velocidad = 300;
+        float velocidad = 500;
         Ship ship = mock(Ship.class);
 
-        if(velocidad<= 500){
+        if(velocidad< 500){
             velocidad += 50;
             ship.setSpeed(velocidad);
         }else{
-            velocidad -=400;
+            velocidad -=500;
             ship.setSpeed(velocidad);
         }
-        expected = 0;
+        expected = velocidad;
         output = ship.getSpeed();
         assertEquals(expected, output, delta);
+    }
+
+    @Then("^change the ship speed$")
+    public void changeTheShipSpeed() throws Throwable {
+
+        double delta = 0.1;
+        float output;
+        float expected;
+        float velocidad = 1000;
+        Ship ship = mock(Ship.class);
+
+        if(velocidad< 1000){
+            velocidad += 50;
+            ship.setSpeed(velocidad);
+        }else {
+            velocidad -= 1000;
+            ship.setSpeed(velocidad);
+        }
+        expected = velocidad;
+        output = ship.getSpeed();
+        assertEquals(expected, output, delta);
+    }
+
+    @When("^screen is touched$")
+    public void screenIsTouched() throws Throwable {
+
+        //View.java
+        View view = mock(View.class);
+        view.onTouchEvent(MotionEvent.ACTION_DOWN);
+
+        //Ship.java
+        Ship ship = mock(Ship.class);
+        int direccion = ship.getDireccion();
+        if (direccion  < 0){
+            System.out.println();
+            System.out.println("Screen is not touched");
+        } else {
+            System.out.println();
+            System.out.println("Screen is being touched");
+        }
+    }
+
+    @Then("^ship moves in that direction$")
+    public void shipMovesInThatDirection() throws Throwable {
+        Ship ship = mock(Ship.class);
+        double delta = 0.1;
+        float output;
+        float expected;
+        int shipMoving = 0;
+
+        ship.setShipMoving(shipMoving);
+        output = ship.getShipMoving();
+        expected = shipMoving;
+        assertEquals(expected, output, delta);
+
     }
 }

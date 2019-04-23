@@ -652,4 +652,47 @@ public class View extends SurfaceView implements Runnable {
     }
 
 
+    public Object onTouchEvent(int actionDown) {
+        // El jugador ha tocado la pantalla
+
+        int[][] screen = new int [100][100];
+        paused = false;
+        if (screen[100][0] <= screenY / 2 && (screen[0][0] <= screenX / 15 || screen[0][100] >= screenX - screenX / 15) &&
+                screen[100][100]>= screenY / 2 - screenY / 10) {
+            boolean touched = true;
+            if (adult) {
+
+                if (shipMisiles[nextMisileShip].shoot(playerShip.getX() + playerShip.getLength(),
+                        playerShip.getY() - playerShip.getHeight() / 2, Misile.UP)) {
+
+                    if (nextMisileShip == maxShipMisiles - 1) {
+                        nextMisileShip = 0;
+                    } else {
+                        nextMisileShip++;
+                    }
+                }
+            }
+            return touched;
+        } else if (screen[99][0] >= screenY / 2) {
+            boolean touched = true;
+            //laterales de la pantalla
+            if (screen[0][99] <= (screenX / 3)) {
+                //se mueve a la izq
+                playerShip.setShipMoving(playerShip.LEFT);
+            } else if (((screenX / 3) * 2) < screen[99][0]) {
+                //se mueve a la dcha
+                playerShip.setShipMoving(playerShip.RIGHT);
+            } else if (((screenX / 3) < screen[99][99]) && (screen[99][99] <= ((screenX / 3) * 2))) {
+                if (screen[99][99] <= (screenY * 3 / 4)) {
+                    //se mueve hacia arriba
+                    playerShip.setShipMoving(playerShip.UP);
+                } else if (screen[0][0] > (screenY * 3 / 4)) {
+                    //se mueve hacia abajo
+                    playerShip.setShipMoving(playerShip.DOWN);
+                }
+            }
+            return touched;
+        }
+        return false;
+    }
 }

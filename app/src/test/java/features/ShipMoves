@@ -1,0 +1,7 @@
+Feature: Ship Moves
+  As a player, I want the ship to move when i touch the screen.
+
+  Scenario: Random change of color
+    Given a game started
+    When screen is touched
+    Then ship moves in that direction

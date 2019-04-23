@@ -1,7 +1,7 @@
 Feature: Accelerate and brake
-  As a player, I want the ship tho increase velocity and brake instantly.
+  As a player, I want the ship to change its speed
 
-  Scenario: Accelerate and brake the ship
+  Scenario: Accelerate and decelerate the ship
     Given a game started
     When ship is moving
-    Then increase gradually the velocity and decrease it instantly
+    Then change the ship speed

@@ -8,8 +8,8 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-//        glue = "stepDefs/Mystepdefs.java",
-        features = {"features"}
+//        glue = "stepDefs/Mystepdefs",
+        features = {"D:\\Users\\Raul\\Documents\\SpaceInvadersCS\\app\\src\\test\\java\\features\\"}
 )
 
 public class RunTest  {
