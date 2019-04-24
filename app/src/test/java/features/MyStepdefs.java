@@ -41,7 +41,7 @@ public class MyStepdefs {
     public void shipDisappear() throws Throwable {
         Context context = null;
         int screenY = 1000;
-        int screenX = 100;
+        int screenX = 0;
         float output;
         float expected;
         double delta = 0.1;
@@ -50,7 +50,7 @@ public class MyStepdefs {
 
         ship.desaparecer();
         output = ship.getX();
-        expected = 0;
+        expected = screenX;
         assertEquals(expected, output, delta);
 
     }
