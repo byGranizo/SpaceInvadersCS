@@ -15,13 +15,16 @@ import static org.mockito.Mockito.mock;
 
 public class MyStepdefs {
 
-    boolean jugando = true;
 
     @Given("^a game started$")
     public void a_game_started() throws Throwable {
-        if (jugando){
-            System.out.println("The game started");
+        View view = mock(View.class);
+        boolean playing = view.getPlaying();
+
+        if (playing){
+            System.out.println("The game has started");
         }
+
     }
 
     @When("^ship is moving$")

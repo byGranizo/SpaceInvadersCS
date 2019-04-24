@@ -135,6 +135,8 @@ public class View extends SurfaceView implements Runnable {
         prepareLevel();
     }
 
+    public boolean getPlaying(){ return playing = true; }
+
     private void prepareLevel() {
 
 
